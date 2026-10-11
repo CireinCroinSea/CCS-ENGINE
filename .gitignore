@@ -1,0 +1,18 @@
+# Visual Studio and CMake build output
+.vs/
+build/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.sln
+*.slnx
+*.vcxproj*
+*.user
+
+# Generated binaries and runtime logs
+Publish/*.exe
+Publish/*.log
+*.pdb
+*.ilk
+
